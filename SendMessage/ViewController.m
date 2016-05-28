@@ -39,6 +39,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSString *size = [FuData kMGTUnit:[FuData diskOfAllSizeBytes]];
+    NSLog(@"%@",size);
+    return;
     _backCount = 0;
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(handleNotification:) name:@"ChangeBackCount" object:nil];
     

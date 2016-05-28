@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "12E9DFE6FF1D670024C45806B717970ED658F9FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "12E9DFE6FF1D670024C45806B717970ED658F9FC" : 0,
+    "FDE7AAF66104056186180A65CAD9775A415495E4" : 0,
+    "8A6891D59F97357B3FE4A49F961297DD8BF8929E" : 0,
+    "EEF542AF9FAEACF13C10F43D22951598AEA57641" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BD89387D-121E-472D-A513-167565C4DF66",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "12E9DFE6FF1D670024C45806B717970ED658F9FC" : "SendMessage\/",
+    "FDE7AAF66104056186180A65CAD9775A415495E4" : "",
+    "8A6891D59F97357B3FE4A49F961297DD8BF8929E" : "FuSoft\/",
+    "EEF542AF9FAEACF13C10F43D22951598AEA57641" : "Thanks\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SendMessage",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SendMessage.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fudon\/SendMessage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "12E9DFE6FF1D670024C45806B717970ED658F9FC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fudon\/FuSoft.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8A6891D59F97357B3FE4A49F961297DD8BF8929E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fudon\/Thanks.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EEF542AF9FAEACF13C10F43D22951598AEA57641"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fudon\/fudon.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDE7AAF66104056186180A65CAD9775A415495E4"
+    }
+  ]
+}
